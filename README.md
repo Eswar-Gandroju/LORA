@@ -10,7 +10,7 @@ Built for our intra-department expo. Assembled on a bedsheet. It worked.
 
 ## 📸 Hardware
 
-![LoRa Device](screenshots/device.jpg)
+![LoRa Device](screenshots/Lora.jpg)
 
 > ESP32 + LoRa Ra-02 + NEO-6M GPS + QMC5883L Compass + SH1106 OLED + 2 Push Buttons
 
